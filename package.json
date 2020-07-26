@@ -1,0 +1,15 @@
+{
+  "name": "2v8yl",
+  "version": "0.0.0",
+  "description": "a list to keep",
+  "dependencies": {},
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
